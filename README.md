@@ -33,7 +33,8 @@ Data is stored under `forma-kanban:v1` in localStorage for this origin. Clearing
 
 ## Screenshot
 
-_Screenshot placeholder: add a desktop board screenshot here._
+<img width="1895" height="905" alt="image" src="https://github.com/user-attachments/assets/80c75b05-58d6-43ae-98fb-ec2980827c5c" />
+
 
 ## Source
 
